@@ -1,0 +1,24 @@
+.form-field{
+  display: block;
+}
+
+.container{
+  display: flex;
+}
+
+.child{
+  height: 200px;
+  width: 200px;
+}
+
+#child1{
+  background-color: blue;
+}
+
+#child2{
+  background-color: red;
+}
+
+#child3{
+  background-color: green;
+}
